@@ -11,3 +11,7 @@ img
     background: var(--base);
     filter: blur(var(--blur));
 }
+.js
+{
+    color: var(--base);
+}
